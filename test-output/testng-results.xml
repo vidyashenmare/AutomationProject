@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-12T16:11:17 IST" name="Default suite" finished-at="2025-07-12T16:11:53 IST" duration-ms="35639">
+    <groups>
+      <group name="Smoke">
+        <method signature="CheckOutstepTwoTest.finishChkOutStep()[pri:0, instance:com.mystore.testcases.CheckOutstepTwoTest@4ac3c60d]" name="finishChkOutStep" class="com.mystore.testcases.CheckOutstepTwoTest"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test started-at="2025-07-12T16:11:17 IST" name="Default test" finished-at="2025-07-12T16:11:53 IST" duration-ms="35639">
+      <class name="com.mystore.testcases.CheckOutstepTwoTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mystore.testcases.CheckOutstepTwoTest@4ac3c60d]" started-at="2025-07-12T16:11:18 IST" name="setup" finished-at="2025-07-12T16:11:49 IST" duration-ms="31402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="finishChkOutStep()[pri:0, instance:com.mystore.testcases.CheckOutstepTwoTest@4ac3c60d]" started-at="2025-07-12T16:11:49 IST" name="finishChkOutStep" finished-at="2025-07-12T16:11:53 IST" duration-ms="3711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finishChkOutStep -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mystore.testcases.CheckOutstepTwoTest@4ac3c60d]" started-at="2025-07-12T16:11:53 IST" name="setup" finished-at="2025-07-12T16:11:53 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="finishcheckoutsteplast()[pri:0, instance:com.mystore.testcases.CheckOutstepTwoTest@4ac3c60d]" started-at="2025-07-12T16:11:53 IST" name="finishcheckoutsteplast" finished-at="2025-07-12T16:11:53 IST" duration-ms="272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finishcheckoutsteplast -->
+      </class> <!-- com.mystore.testcases.CheckOutstepTwoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
